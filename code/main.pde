@@ -41,6 +41,10 @@ void draw() {
   }
 }
 
+void mouseClicked(){
+  
+}
+
 void init() { // Initialisation pour test
   Ressource[] tab = new Ressource[8]; // On déclare un tab de Ressource de taille 8
   
